@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/monster/arduino_python_publisher/src/arduinobot_python_firmware/arduinobot_python_firmware/simple_serial_transmitter":
+  No such file or directory.
+
+[0m

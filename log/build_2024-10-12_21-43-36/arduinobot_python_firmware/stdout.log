@@ -1,0 +1,28 @@
+-- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found rclpy: 7.1.2 (/opt/ros/jazzy/share/rclpy/cmake)
+-- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/monster/arduino_python_publisher/build/arduinobot_python_firmware
+-- Install configuration: ""
+-- Installing: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/lib/arduinobot_python_firmware/simple_serial_transmitter.py
+-- Installing: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/ament_index/resource_index/package_run_dependencies/arduinobot_python_firmware
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/ament_index/resource_index/parent_prefix_path/arduinobot_python_firmware
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/environment/ament_prefix_path.sh
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/environment/path.sh
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/environment/path.dsv
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/local_setup.bash
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/local_setup.sh
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/local_setup.zsh
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/local_setup.dsv
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/package.dsv
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/ament_index/resource_index/packages/arduinobot_python_firmware
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/cmake/arduinobot_python_firmwareConfig.cmake
+-- Up-to-date: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/cmake/arduinobot_python_firmwareConfig-version.cmake
+-- Installing: /home/monster/arduino_python_publisher/install/arduinobot_python_firmware/share/arduinobot_python_firmware/package.xml
